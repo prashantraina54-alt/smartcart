@@ -17,7 +17,7 @@ SmartCart is a full-stack eCommerce web application built using the MERN stack. 
 * Real-time stock updates
 * Fully responsive design (mobile and desktop)
 
----
+
 
 ## Tech Stack
 
